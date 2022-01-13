@@ -1,0 +1,3 @@
+D:/nauk/git/ou_clion_git/cmake-build-debug/CMakeFiles/ou_clion_git.dir
+D:/nauk/git/ou_clion_git/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/nauk/git/ou_clion_git/cmake-build-debug/CMakeFiles/rebuild_cache.dir
